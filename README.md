@@ -1,2 +1,3 @@
 # koostoo-kuura
-# Andres-Kristjan Kuura
+Andres-Kristjan Kuura
+https://github.com/jaredreich/pell.git
